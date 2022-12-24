@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">prepareTestNri</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">wxY4MkThheLqU4zqntIBR0C-qQuciyOXmrosU</string>
+</resources>
